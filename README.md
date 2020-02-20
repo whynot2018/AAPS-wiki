@@ -9,3 +9,5 @@ Then go to Android > data > info.nightscout.androidaps > files
 You will find a whole bunch of zip files there, the file names of these zip file contain dates and times you can spott right time with time list.The current log is a .log file.
 If sharing your log in gitter or github issues when talking about a potential bug then unzip and upload the folder dated before the error occurred.
 
+![Image description](https://raw.githubusercontent.com/whynot2018/AAPS-wiki/master/issues.png) 
+
