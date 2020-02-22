@@ -1,6 +1,6 @@
 # How to get and add Log files in to github issues if something goes wrong
 
-1-FirstFind out when the issue has occurred. If It's possible that a screenshot to do that press simultaneously Home and Power buttons.
+1-First find out when the issue has occurred. If It's possible that a screenshot to do that press simultaneously Home and Power buttons.
 
 2-If you connect your phone to your PC in File transfer mode, on your PC, navigate to the internal storage of your phone (in Windows Explorer, which is basically 'My PC')
 Then go to Android > data > info.nightscout.androidaps > files
